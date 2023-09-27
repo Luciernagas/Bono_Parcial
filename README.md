@@ -43,9 +43,7 @@ Las opciones disponibles para path son:
 * Retorna la maginitud de un vector real de dos dimensiones, es decir recibe dos parámetros reales.
 ![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/77e3aa3d-cb0d-4561-8ba7-e4f60a753877)
 
-```
-localhost:35000/html
-```
+
 * * *
 ### Docker
 luisadelahozz/firstprkwebapprepo
