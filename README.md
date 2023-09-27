@@ -27,20 +27,23 @@ Después se debe ingresar en el browser con la ruta
 localhost:4567
 ```
 Las opciones disponibles para path son:
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/02e73520-ec86-4f4d-bc49-7626e3debba0)
+
 * Sin
-  
-![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/36ebf873-411c-4c21-aca4-443c66f24cb0)
+
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/47de78e1-7442-4a18-ad27-7f12637ee9ee)
 
 
 * Cos
   
-![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/b5c73f0a-3ba9-412b-90eb-a2e1ea60c36f)
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/32d3b80d-84e3-44c5-bf91-d86151bf6072)
 
 
 * Determinar si una cadena es un palíndromo
   
-![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/d0895e2b-9efc-4df9-88dc-1dd0ece94bfe)
-![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/3aae7f44-5eb3-4e41-90fd-481732615670)
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/c91570bf-8ccd-44c5-b0ce-64516ea17091)
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/b015cd51-00d3-4911-85f2-dc9e533c375a)
+
 
 
 * Retorna la maginitud de un vector real de dos dimensiones, es decir recibe dos parámetros reales.
