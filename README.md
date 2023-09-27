@@ -27,6 +27,7 @@ Después se debe ingresar en el browser con la ruta
 localhost:4567
 ```
 Las opciones disponibles para path son:
+
 ![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/02e73520-ec86-4f4d-bc49-7626e3debba0)
 
 * Sin
@@ -42,7 +43,7 @@ Las opciones disponibles para path son:
 * Determinar si una cadena es un palíndromo
   
 ![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/c91570bf-8ccd-44c5-b0ce-64516ea17091)
-![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/b015cd51-00d3-4911-85f2-dc9e533c375a)
+![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/6c295134-9626-4513-a323-3dbf0c272213)
 
 
 
