@@ -30,6 +30,7 @@ Las opciones disponibles para path son:
 
 ![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/02e73520-ec86-4f4d-bc49-7626e3debba0)
 
+
 * Sin
 
 ![image](https://github.com/Luciernagas/Bono_Parcial/assets/104604359/47de78e1-7442-4a18-ad27-7f12637ee9ee)
